@@ -1,2 +1,1 @@
-# automatic-winner
-desk
+# PRO-C150-Student-Activity
